@@ -4,7 +4,7 @@ This repository contains instructional material and a refined dataset.
 
 The reposity contains _ python notebooks (explain each notebook) that cover basic topics with coding with Python3, and beginner modules on using the Pandas package for data analysis. 
 
-These materials have been adapted from the lessons created by the staff at the Research Hub at the Davis Library at UNC. 
+These materials have been adapted from the lessons created by the staff at the [Research Hub at the Davis Library at UNC]{##add link here}. 
 
 Created for English 105-030 Fall 2022 University of North Carolina at Chapel Hill
 
