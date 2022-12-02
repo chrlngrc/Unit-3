@@ -11,4 +11,4 @@ I chose to focus in on this topic because there is a good chance that healthcare
 
 ## Acknowledgements 
 
-This repository was created for English 105-030 Fall 2022 University of North Carolina at Chapel Hill. These materials have been adapted from the lessons created by the staff at the [Research Hub at the Davis Library at UNC]{##(https://library.unc.edu/data/)}. 
+This repository was created for English 105-030 Fall 2022 University of North Carolina at Chapel Hill. These materials have been adapted from the lessons created by the staff at the [Research Hub at the Davis Library at UNC]{(https://library.unc.edu/data/)}. 
