@@ -1,7 +1,7 @@
 # Healthcare Costs Vs. Child Mortality
 
 ## About
-This repository contains a refined dataset created with the `County_Health_Data`, which is included in the Data folder. The new dataset contains information on the healthcare costs and mortality rates in states across the United States. The `Creating_Subset` file contains instructional material on how to filter data and create a smaller subset. 
+This repository contains a refined dataset created with the `County_Health_Data`, which is included in the Data folder. The new dataset contains information on the healthcare costs and mortality rates in states across the United States. The `Creating_Subset` file contains instructional material on how to filter data and create a smaller subset. The repository also include `Python Basics` for basic instructions on using the Python program.
 
 ## Data
 
